@@ -1,0 +1,45 @@
+@import "assets/main.css";
+
+h1 {text-align: center;}
+
+h4 {
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.group-name {text-align: center;}
+
+body {
+    background-color: rgb(241, 247, 248);
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 10px;
+}
+
+.button {
+    background-color: #cedde6;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 20px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 2px 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+}
+
+.image {
+    height: 50%;
+    border: none;
+    padding: 10px;
+    display: block;
+    margin: auto;
+    width: 50%;
+}

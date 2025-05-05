@@ -1,11 +1,26 @@
 ---
-layout: page
-title: Canada Goose
-permalink: /Species/
+layout: wrapper
+title: Species
+permalink: /species/
 ---
-<p style="font-size: 1.3em; margin-top: 1em;"><strong>Introduction and Motivation</strong></p>
+<div class="flex">
+    <a href="#" class="button">Canada Goose</a>
+    <a href="#" class="button">Wood Duck</a>
+    <a href="#" class="button">Mourning Dove</a>
+    <a href="#" class="button">Tree Swallow</a>
+    <a href="#" class="button">Gray Catbird</a>
+    <a href="#" class="button">American Goldfinch</a>
+    <a href="#" class="button">White-throated Sparrow</a>
+</div>
+<hr>
+<h3>Canada Goose</h3>
 
 <table style="border: none; border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
+    <td>
+      <h4>About the Species (Motivation for choosing, etc.)</h4>
+    </td>
+  </tr>
   <tr style="border: none;">
     <td width="60%" valign="top" style="border: none; padding: 0;">
       The Canada Goose (<em>Branta canadensis</em>) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.
