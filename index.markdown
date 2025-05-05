@@ -4,5 +4,5 @@
 
 layout: wrapper
 ---
-<h1>Analysis of Temporal and Geographical Changes in Bird Migration Patterns in North America</h1>
-<span class="group-name">By Group 9</span>
+<h1 class="special-title">Analysis of Temporal and Geographical Changes in Bird Migration Patterns in North America</h1>
+<h4 class="group-name-setting">By Group 9</h4>

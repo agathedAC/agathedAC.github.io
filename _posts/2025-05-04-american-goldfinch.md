@@ -1,7 +1,7 @@
 ---
 layout: wrapper
 title: Species
-permalink: /species/
+permalink: /species-american-goldfinch/
 ---
 <div class="flex">
     <a href="/species/" class="button">Canada Goose</a>
@@ -14,7 +14,7 @@ permalink: /species/
 </div>
 <hr>
 <br>
-<h2>Canada Goose</h2>
+<h2>American Goldfinch</h2>
 <div>
     <h3>About the Species (Motivation for choosing, etc.)</h3>
     <div class="flex">
