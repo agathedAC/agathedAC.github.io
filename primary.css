@@ -43,6 +43,11 @@ body {
     cursor: pointer;
 }
 
+.bird-button {
+    text-align: center;
+    display: inline-block;
+}
+
 .image {
     height: 50%;
     border: none;
