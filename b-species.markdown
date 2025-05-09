@@ -18,26 +18,36 @@ permalink: /species/
 <div>
     <h3>About the Species (Motivation for choosing, etc.)</h3>
     <div class="flex">
-      <p>The Canada Goose (Branta canadensis) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.</p>
-      <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
+      <p>The Canada goose is a large species of goose  with a black head and neck, white cheeks, white under its chin, and a brown body distinguish it from all other goose species. It is native to the arctic and temperate regions of North America. It is primarily herbivorous, although they sometimes eat small insects and fish.  and normally migratory; often found on or close to fresh water, the estuaries, and even urban areas, being so common in some suburban areas that many people consider them pests.It’s size range from 75 to 110 cm (30 to 43 in) in length and have a 127–185 cm (50–73 in) wingspan. The lifespan in the wild of geese who survive to adulthood ranges from 10 to 24 years. https://en.wikipedia.org/wiki/Canada_goose
+</p>
+      <img src="/figures/birds/canada_goose.jpg" alt="Canada Goose" class="image">
     </div>
 </div>
 
 <div>
     <h3>Analysis of Migration Patterns</h3>
     <div>
-        <h4>Overall Geographycal Patterns</h4>
-        <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
-        <p>The Canada Goose (Branta canadensis) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.</p>
-    </div>
+    <h4>Overall Geographical Patterns</h4>
+    <iframe src="/figures/top1locations/canada_goose_banding_map.html" 
+            width="100%" 
+            height="500" 
+            style="border:1px solid #ccc; border-radius: 8px;" 
+            title="Canada Goose Banding Map">
+    </iframe>
+    <p>
+        The <strong>Canada Goose</strong> (<em>Branta canadensis</em>) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. 
+        It can have up to 25,000 feathers. An interesting fact about this species is that it can <strong>sleep with one eye open</strong>, and can <strong>fly as high as 29,000 feet</strong>.
+    </p>
+</div>
+
     <div>
         <h4>Temporal Changes between 1970s and 201s</h4>
-        <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
-        <p>The Canada Goose (Branta canadensis) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.</p>
+        <img src="/figures/species_year/canada_goose_banding_by_year.png" alt="Canada Goose" class="image">
+        <p>•	The highest number of Canada goose are banded in 2018 with count of 88638 where as 1972 is the least year with 35335 of these species are banded in events.</p>
     </div>
     <div>
         <h3>Summary</h3>
-        <p>The Canada Goose (Branta canadensis) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.</p>
+        <p>The Canada Goose </p>
     </div>
 
 

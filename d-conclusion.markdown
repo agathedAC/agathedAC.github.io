@@ -24,8 +24,10 @@ permalink: /conclusion/
 </div>
 <div>
     <h3>Sources</h3>
-    <p>Source 1</p>
-    <p>Source 2</p>
+    <p><a href="https://en.wikipedia.org/wiki/North_American_Bird_Banding_Program" target="_blank">
+        North American Bird Banding Program - Wikipedia</a>.</p>
+    <p><a href="https://www.sciencebase.gov/catalog/item/653fa806d34ee4b6e05bc57darget="_blank">
+        North American Bird Banding Program Dataset 1960-2023 retrieved 2023-07-12 </p>
     <p>Source 3</p>
 </div>
 <div>
