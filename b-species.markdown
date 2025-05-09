@@ -26,18 +26,12 @@ permalink: /species/
 
 <div>
 <h3>Analysis of Migration Patterns</h3>
-<iframe src="/figures/wood_duck_banding_map.html" 
-        width="100%" 
-        height="500" 
-        style="border:1px solid #ccc; border-radius: 8px;" 
-        title="Wood Duck Banding Map">
-</iframe>
+<iframe src="/figures/wood_duck_banding_map.html" width="100%" height="450" frameborder="0" title="Wood Duck Banding Map"></iframe>
 <p>
     The top location with the highest numbers of Canada Geese banded is in the United States, specifically in the <strong>[insert location]</strong> region. 
     This pattern indicates significant migratory activity of the Canada Goose between [decades or time period, e.g., the 1970s and 2010s].
 </p>
 
-    </p>
 </div>
     <div>
         <h4>Temporal Changes between 1970s and 201s</h4>
