@@ -7,50 +7,50 @@ permalink: /introduction/
 <br>
 <div>
     <h3>About the project</h3>
-    <p>## North American Bird Migration Analysis (1970s vs. 2010s)
-
-The **North American Bird Banding Program (NABBP)**, administered by the **U.S. Geological Survey (USGS) Bird Banding Laboratory** and the **Canadian Wildlife Service's Bird Banding Office**, uses standardized event types to categorize different bird banding activities.
-
-This project aims to analyze **bird migration patterns in North America** between the **1970s and the 2010s**, using data collected from the [U.S. Geological Survey ScienceBase Catalog](https://www.sciencebase.gov/catalog/item/653fa806d34ee4b6e05bc57d).
-
-### Focus Species
-
-We focus on **seven bird species** selected for their diversity, abundance of records, and their grouping within the dataset:
-
-- **Canada Goose**
-- **Wood Duck**
-- **Mourning Dove**
-- **Tree Swallow**
-- **Gray Catbird**
-- **American Goldfinch**
-- **White-throated Sparrow**
-
-To streamline the analysis, we retained only the data from **1970 and 2010**, allowing for a clear comparison of migration patterns across these two decades.
-
-### Objectives
-
-- Understand how **migration patterns have changed** temporally and geographically.
-- Identify the **number of birds banded**, the **banding events**, and their **subdivisions**.
-- Compare patterns and trends between the **1970s and 2010s**.
-
-### Importance of Bird Banding
-
-Studies of bird migration are crucial. Modern bird banding efforts support:
-
-- Research on avian behavior, ecology, and population dynamics
-- Conservation of endangered species
-- Regulation of hunting** for game birds
-- Human health and safety initiatives (e.g., monitoring West Nile virus, preventing bird strikes near airports)
-
-Results from banding activities also contribute to international conservation programs such as:
-
-- Partners in Flight
-- North American Waterfowl Management Plan
-
-For more details, see the [North American Bird Banding Program - Wikipedia](https://en.wikipedia.org/wiki/North_American_Bird_Banding_Program).
-</p>
+    <div>
+        <h4>North American Bird Migration Analysis (1970s vs. 2010s)</h4>
+        <p><span class="italic">The North American Bird Banding Program (NABBP)</span>, administered by the <span class="italic">U.S. Geological Survey (USGS) Bird Banding Laboratory</span> and the <span class="italic">Canadian Wildlife Service's Bird Banding Office</span>, uses standardized event types to categorize different bird banding activities.</p>
+        <p>This project aims to analyze <span style="font-weight: bold">bird migration patterns in North America</span> between the <span style="font-weight: bold">1970s and the 2010s</span>, using data collected from the <a href="https://www.sciencebase.gov/catalog/item/653fa806d34ee4b6e05bc57d">U.S. Geological Survey ScienceBase Catalog</a>.</p>
+    </div>
+    <div>
+        <h4>Focus Species</h4>
+        <p>We focus on <span style="font-weight: bold">seven bird species</span> selected for their diversity, abundance of records, and their grouping within the dataset:</p>
+        <ul>
+            <li>Canada Goose</li>
+            <li>Wood Duck</li>
+            <li>Mourning Dove</li>
+            <li>Tree Swallow</li>
+            <li>Gray Catbird</li>
+            <li>American Goldfinch</li>
+            <li>White-throated Sparrow</li>
+        </ul>
+        <p>To streamline the analysis, we retained only the data from <span style="font-weight: bold">1970 and 2010</span>, allowing for a clear comparison of migration patterns across these two decades.</p>
+    </div>
+    <div>
+        <h4>Objectives</h4>
+        <ul>
+            <li>Understand how <span style="font-weight: bold">migration patterns have changed</span> temporally and geographically.</li>
+            <li>Identify <span style="font-weight: bold">the number of birds banded</span>, <span style="font-weight: bold">the banding events</span>, and their <span style="font-weight: bold">subdivisions</span>.</li>
+            <li>Compare patterns and trends between the <span style="font-weight: bold">1970s and 2010s</span>.</li>
+        </ul>
+    </div>
+    <div>
+        <h4>Importance of Bird Banding</h4>
+        <p>Studies of bird migration are crucial. Modern bird banding efforts support:</p>
+        <ul>
+            <li>Research on avian behavior, ecology, and population dynamics</li>
+            <li>Conservation of endangered species</li>
+            <li>Regulation of hunting** for game birds</li>
+            <li>Human health and safety initiatives (e.g., monitoring West Nile virus, preventing bird strikes near airports)</li>
+        </ul>
+        <p>Results from banding activities also contribute to international conservation programs such as:</p>
+        <ul>
+            <li>Partners in Flight</li>
+            <li>North American Waterfowl Management Plan</li>
+        </ul>
+        <p>For more details, see the <a href="https://en.wikipedia.org/wiki/North_American_Bird_Banding_Program">North American Bird Banding Program - Wikipedia</a>.</p>
+    </div>
 </div>
-
 <div>
     <h3>Introductory statistics</h3>
     <div>

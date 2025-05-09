@@ -4,13 +4,13 @@ title: Species
 permalink: /species/
 ---
 <div class="flex">
-    <a href="/species/" class="button">Canada Goose</a>
-    <a href="/species-wood-duck/" class="button">Wood Duck</a>
-    <a href="/species-mourning-dove/" class="button">Mourning Dove</a>
-    <a href="/species-tree-swallow/" class="button">Tree Swallow</a>
-    <a href="/species-gray-catbird/" class="button">Gray Catbird</a>
-    <a href="/species-american-goldfinch/" class="button">American Goldfinch</a>
-    <a href="/species-white-throated-sparrow/" class="button">White-throated Sparrow</a>
+    <a href="/species/" class="button bird-button">Canada Goose</a>
+    <a href="/species-wood-duck/" class="button bird-button">Wood Duck</a>
+    <a href="/species-mourning-dove/" class="button bird-button">Mourning Dove</a>
+    <a href="/species-tree-swallow/" class="button bird-button">Tree Swallow</a>
+    <a href="/species-gray-catbird/" class="button bird-button">Gray Catbird</a>
+    <a href="/species-american-goldfinch/" class="button bird-button">American Goldfinch</a>
+    <a href="/species-white-throated-sparrow/" class="button bird-button">White-throated Sparrow</a>
 </div>
 <hr>
 <br>
