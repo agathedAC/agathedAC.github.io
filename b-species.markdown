@@ -26,8 +26,6 @@ permalink: /species/
 
 <div>
     <h3>Analysis of Migration Patterns</h3>
-    <div>
-    <h4>Overall Geographical Patterns</h4>
     <iframe src="/figures/top1locations/canada_goose_banding_map.html" 
             width="100%" 
             height="500" 
@@ -39,7 +37,6 @@ permalink: /species/
         It can have up to 25,000 feathers. An interesting fact about this species is that it can <strong>sleep with one eye open</strong>, and can <strong>fly as high as 29,000 feet</strong>.
     </p>
 </div>
-
     <div>
         <h4>Temporal Changes between 1970s and 201s</h4>
         <img src="/figures/species_year/canada_goose_banding_by_year.png" alt="Canada Goose" class="image">
