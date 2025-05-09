@@ -26,6 +26,7 @@ body {
     justify-content: center;
     margin: auto;
     padding: 10px;
+    align-content: center;
 }
 
 .button {
@@ -44,8 +45,7 @@ body {
 }
 
 .bird-button {
-    text-align: center;
-    display: inline-block;
+    vertical-align: middle;
 }
 
 .image {
@@ -55,4 +55,8 @@ body {
     display: block;
     margin: auto;
     width: 50%;
+}
+
+.italic {
+    font-style: italic
 }
