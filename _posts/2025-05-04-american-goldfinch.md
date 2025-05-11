@@ -33,7 +33,8 @@ permalink: /species-american-goldfinch/
     <h3>Analysis of Migration Patterns</h3>
     <div>
         <h4>Overall Geographycal Patterns</h4>
-        <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
+        <p class="italic">The map below is interactive. Feel free to move around and zoom in and out!</p>
+        <iframe src="/assets/species-geo-maps/american_goldfinch_banding_map.html" width="800" height="600" frameborder="0"></iframe>
         <p>X</p>
     </div>
     <div>
