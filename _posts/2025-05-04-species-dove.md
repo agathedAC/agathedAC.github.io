@@ -35,7 +35,7 @@ permalink: /species-mourning-dove/
     </div>
     <div>
         <h4>Temporal Changes between 1970s and 2010s</h4>
-        <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
+        <img src="/figures/species-banding/mourning_dove_banding_by_year.png" alt="mourning_dove_banding_by_year"  class="graph-img">
         <p>Year with most MOURNING DOVE band events: 1971. Count: 163649 while the year with fewest MOURNING DOVE band events is 1978 at a count of 9835.</p>
     </div>
     <div>

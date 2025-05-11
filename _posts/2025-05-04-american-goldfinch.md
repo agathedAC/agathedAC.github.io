@@ -38,7 +38,7 @@ permalink: /species-american-goldfinch/
     </div>
     <div>
         <h4>Temporal Changes between 1970s and 2010s</h4>
-        <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
+        <img src="/figures/species-banding/american_goldfinch_banding_by_year.png" alt="american_goldfinch_banding_by_year"  class="graph-img">
         <p>X</p>
     </div>
     <div>

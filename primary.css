@@ -60,3 +60,8 @@ body {
 .italic {
     font-style: italic
 }
+
+.graph-img {
+    width: 1000px;
+    height: auto;
+}
