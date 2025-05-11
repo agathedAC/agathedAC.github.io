@@ -16,10 +16,10 @@ permalink: /species-tree-swallow/
 <br>
 <h2>Tree Swallow</h2>
 <div>
-    <h3>About the Species (Motivation for choosing, etc.)</h3>
-    <div class="flex">
-      <p>The Canada Goose (Branta canadensis) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.</p>
-      <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
+    <h3>About the Species</h3>
+    <div>
+      <p>The tree awallow is a small, agile bird with iridescent blue-green upperparts and white underparts, where the female is duller in color than the male, and sometimes has a brown forehead. They are commonly found near water and open fields. The tree swallow has a length between about 12-14 cm and a weight of approximately 17-25.5 g. Its wingspan ranges from 30-35 cm . The tree swallow has an average lifespan of 2.7 years[69] and a maximum of 12 years. Thet primarily feed on flying insects and can drink and bathe while in flight. It is typically found all across the continental U.S. (except the southeastern corner) and Canada, and in parts of Alaska.</p>
+      <img src="/figures/tree-swallow.jpg" alt="https://www.allaboutbirds.org/guide/Tree_Swallow/id" class="image">
     </div>
 </div>
 
@@ -28,16 +28,16 @@ permalink: /species-tree-swallow/
     <div>
         <h4>Overall Geographycal Patterns</h4>
         <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
-        <p>The Canada Goose (Branta canadensis) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.</p>
+        <p>X</p>
     </div>
     <div>
-        <h4>Temporal Changes between 1970s and 201s</h4>
+        <h4>Temporal Changes between 1970s and 2010s</h4>
         <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
-        <p>The Canada Goose (Branta canadensis) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.</p>
+        <p>Year with most TREE SWALLOW band events: 2012. Count: 30698. Year with fewest TREE SWALLOW band events: 1970. Count: 5455</p>
     </div>
     <div>
         <h3>Summary</h3>
-        <p>The Canada Goose (Branta canadensis) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.</p>
+        <p>X</p>
     </div>
 
 
