@@ -32,7 +32,7 @@ permalink: /species/
     </div>
     <div>
         <h4>Temporal Changes between 1970s and 2010s</h4>
-        <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
+        <img src="/figures/species-banding/canada_goose_banding_by_year.png" alt="canada_goose_banding_by_year" class="graph-img">
         <p>The highest number of Canada goose are banded in 2018 with count of 88638 where as 1972 is the least year with 35335 of these species are banded in events.</p>
     </div>
     <div>

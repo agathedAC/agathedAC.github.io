@@ -23,7 +23,7 @@ permalink: /species-white-throated-sparrow/
       <ul>
         <li>They exhibit two color morphs—white-striped and tan-striped—which are associated with different behavioral traits.</li>
         <li>Recent studies have documented a rapid change in their song patterns across central Canada, shifting from a three-note to a two-note ending.</li>
-        <li>Their scientific name, Zonotrichia albicollis, translates to "white-necked hair band," referring to their distinctive markings. A-Z AnimalsAudubon</li>
+        <li>Their scientific name, Zonotrichia albicollis, translates to "white-necked hair band," referring to their distinctive markings.</li>
       </ul>
       <img src="/figures/white-throated-sparrow.jpg" alt="https://www.allaboutbirds.org/guide/White-throated_Sparrow/overview" class="image">
     </div>
@@ -38,7 +38,7 @@ permalink: /species-white-throated-sparrow/
     </div>
     <div>
         <h4>Temporal Changes between 1970s and 2010s</h4>
-        <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
+        <img src="/figures/species-banding/white-throated_sparrow_banding_by_year.png" alt="white-throated_sparrow_banding_by_year"  class="graph-img">
         <p>Year with most WHITE-THROATED SPARROW band events: 1975. Count: 31268. Year with fewest WHITE-THROATED SPARROW band events: 2019. Count: 17836</p>
     </div>
     <div>
