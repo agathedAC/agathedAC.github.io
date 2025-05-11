@@ -24,16 +24,20 @@ permalink: /conclusion/
 </div>
 <div>
     <h3>Sources</h3>
-    <p>Source 1</p>
-    <p>Source 2</p>
-    <p>Source 3</p>
+    <p>https://en.wikipedia.org/wiki/Canada_goose</p>
+    <p>American goldfinch. Celebrate Urban Birds. (2016, November 9). https://celebrateurbanbirds.org/learn/birds/focal-species/american-goldfinch/ </p>
+    <p>Gray Catbird. Audubon. (2024, December 8). https://www.audubon.org/field-guide/bird/gray-catbird </p>
+    <p>Mourning dove. Celebrate Urban Birds. (2016b, October 7). https://celebrateurbanbirds.org/learn/birds/focal-species/mourning-dove/ </p>
+    <p>Tree Swallow identification. All About Birds, Cornell Lab of Ornithology. (n.d.). https://www.allaboutbirds.org/guide/Tree_Swallow/id </p>
+    <p>White-throated sparrow overview, all about birds, Cornell Lab of Ornithology. Overview, All About Birds, Cornell Lab of Ornithology. (n.d.). https://www.allaboutbirds.org/guide/White-throated_Sparrow/overview </p>
+    <p>Wood duck. American Bird Conservancy. (2020, January 16). https://abcbirds.org/bird/wood-duck/ </p>
 </div>
 <div>
     <h3>Contributions</h3>
     <ul>
-        <li>Agathe</li>
-        <li>Shirisha</li>
-        <li>Simone</li>
+        <li>Agathe: Migration + Conclusion</li>
+        <li>Shirisha: Introduction + Species</li>
+        <li>Simone: Website + Introduction + Species</li>
     </ul>
 </div>
 

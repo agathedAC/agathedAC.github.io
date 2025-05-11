@@ -16,10 +16,16 @@ permalink: /species-gray-catbird/
 <br>
 <h2>Gray Catbird</h2>
 <div>
-    <h3>About the Species (Motivation for choosing, etc.)</h3>
-    <div class="flex">
-      <p>The Canada Goose (Branta canadensis) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.</p>
-      <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
+    <h3>About the Species</h3>
+    <div>
+      <p>The Gray Catbird (Dumetella carolinensis) is a medium-sized songbird with slate-gray plumage and a distinctive black cap. They are named for their cat-like "mew" call.</p>
+      <h4>Interesting Facts</h4>
+      <ul>
+        <li>Gray Catbirds are skilled mimics, capable of imitating the songs of other birds and even mechanical sounds.</li>
+        <li>They are omnivorous, feeding on insects and a variety of fruits, often foraging in dense shrubs.</li>
+        <li>They are known to aggressively defend their territory against intruders.</li>
+      </ul>
+      <img src="/figures/gray-catbird.jpeg" alt="https://www.audubon.org/field-guide/bird/gray-catbird" class="image">
     </div>
 </div>
 
@@ -28,16 +34,16 @@ permalink: /species-gray-catbird/
     <div>
         <h4>Overall Geographycal Patterns</h4>
         <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
-        <p>The Canada Goose (Branta canadensis) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.</p>
+        <p>X</p>
     </div>
     <div>
-        <h4>Temporal Changes between 1970s and 201s</h4>
+        <h4>Temporal Changes between 1970s and 2010s</h4>
         <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
-        <p>The Canada Goose (Branta canadensis) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.</p>
+        <p>Year with most GRAY CATBIRD band events: 2015. Count: 24672. Year with fewest GRAY CATBIRD band events: 1973. Count: 12616</p>
     </div>
     <div>
         <h3>Summary</h3>
-        <p>The Canada Goose (Branta canadensis) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.</p>
+        <p>X</p>
     </div>
 
 

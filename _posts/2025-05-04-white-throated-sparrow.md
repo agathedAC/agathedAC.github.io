@@ -16,10 +16,16 @@ permalink: /species-white-throated-sparrow/
 <br>
 <h2>White-throated Sparrow</h2>
 <div>
-    <h3>About the Species (Motivation for choosing, etc.)</h3>
-    <div class="flex">
-      <p>The Canada Goose (Branta canadensis) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.</p>
-      <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
+    <h3>About the Species</h3>
+    <div>
+      <p>The White-throated Sparrow (Zonotrichia albicollis) is a medium-sized sparrow with a distinctive white throat patch and yellow lores (spots between the eyes and bill). They are known for their clear, whistled song.</p>
+      <h4>Interesting Facts</h4>
+      <ul>
+        <li>They exhibit two color morphs—white-striped and tan-striped—which are associated with different behavioral traits.</li>
+        <li>Recent studies have documented a rapid change in their song patterns across central Canada, shifting from a three-note to a two-note ending.</li>
+        <li>Their scientific name, Zonotrichia albicollis, translates to "white-necked hair band," referring to their distinctive markings. A-Z AnimalsAudubon</li>
+      </ul>
+      <img src="/figures/white-throated-sparrow.jpg" alt="https://www.allaboutbirds.org/guide/White-throated_Sparrow/overview" class="image">
     </div>
 </div>
 
@@ -28,16 +34,16 @@ permalink: /species-white-throated-sparrow/
     <div>
         <h4>Overall Geographycal Patterns</h4>
         <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
-        <p>The Canada Goose (Branta canadensis) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.</p>
+        <p>X</p>
     </div>
     <div>
-        <h4>Temporal Changes between 1970s and 201s</h4>
+        <h4>Temporal Changes between 1970s and 2010s</h4>
         <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
-        <p>The Canada Goose (Branta canadensis) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.</p>
+        <p>Year with most WHITE-THROATED SPARROW band events: 1975. Count: 31268. Year with fewest WHITE-THROATED SPARROW band events: 2019. Count: 17836</p>
     </div>
     <div>
         <h3>Summary</h3>
-        <p>The Canada Goose (Branta canadensis) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.</p>
+        <p>X</p>
     </div>
 
 

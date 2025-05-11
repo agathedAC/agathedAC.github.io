@@ -16,10 +16,13 @@ permalink: /species-mourning-dove/
 <br>
 <h2>Mourning Dove</h2>
 <div>
-    <h3>About the Species (Motivation for choosing, etc.)</h3>
-    <div class="flex">
-      <p>The Canada Goose (Branta canadensis) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.</p>
-      <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
+    <h3>About the Species</h3>
+    <div>
+      <p>The mourning dove is one of the most abundant and widespread North American birds, doubling as one of the most popular game bird species, with more than 20 million birds (up to 70 million in some years) shot annually in the U.S.
+      They are all muted in color, generally light gray and brown with some pink, with broad wings, a rounded head, a long and tapered tail, and short, reddish colored feet. It is considered a medium-sized, slender dove and is approximately 31 cm in length and a wingspan of 37–45 cm.
+      Other names for the species include: american mourning dove, rain dove, and previously carolina pigeon and carolina turtledove.
+      They are Primarily seed-eaters and can consume up to 20% of their body weight in seeds daily. Additionally, they are among the fastest birds, capable of reaching speeds up to ~88 km/h.</p>
+      <img src="/figures/mourning-dove.jpg" alt="https://celebrateurbanbirds.org/learn/birds/focal-species/mourning-dove/" class="image">
     </div>
 </div>
 
@@ -28,16 +31,16 @@ permalink: /species-mourning-dove/
     <div>
         <h4>Overall Geographycal Patterns</h4>
         <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
-        <p>The Canada Goose (Branta canadensis) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.</p>
+        <p>X</p>
     </div>
     <div>
-        <h4>Temporal Changes between 1970s and 201s</h4>
+        <h4>Temporal Changes between 1970s and 2010s</h4>
         <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
-        <p>The Canada Goose (Branta canadensis) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.</p>
+        <p>Year with most MOURNING DOVE band events: 1971. Count: 163649 while the year with fewest MOURNING DOVE band events is 1978 at a count of 9835.</p>
     </div>
     <div>
         <h3>Summary</h3>
-        <p>The Canada Goose (Branta canadensis) is a familiar sight across North America, recognized by its black head and neck, white chinstrap, and brown body. It can have up to 25,000 feathers. The interesting fact about this is it can sleep with one eye open and they can fly as high as 29,000 feet.</p>
+        <p>X</p>
     </div>
 
 
