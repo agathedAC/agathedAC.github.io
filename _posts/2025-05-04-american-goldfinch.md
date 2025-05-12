@@ -34,7 +34,7 @@ permalink: /species-american-goldfinch/
     <div>
         <h4>Overall Geographycal Patterns</h4>
         <p class="italic">The map below is interactive. Feel free to move around and zoom in and out!</p>
-        <iframe src="/assets/species-geo-maps/american_goldfinch_banding_map.html" width="800" height="600" frameborder="0"></iframe>
+        <iframe src="/assets/species-geo-maps/AMERICAN_GOLDFINCH_banding_map_with_geojson_us_ca.html" width="700" height="600" frameborder="0"></iframe>
         <p>X</p>
     </div>
     <div>

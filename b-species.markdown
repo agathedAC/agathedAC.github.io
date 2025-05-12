@@ -28,7 +28,7 @@ permalink: /species/
     <div>
         <h4>Overall Geographycal Patterns</h4>
         <p class="italic">The map below is interactive. Feel free to move around and zoom in and out!</p>
-        <iframe src="/assets/species-geo-maps/canada_goose_banding_map.html" width="800" height="600" frameborder="0"></iframe>
+        <iframe src="/assets/species-geo-maps/CANADA_GOOSE_banding_map_with_geojson_us_ca.html" width="700" height="600" frameborder="0"></iframe>
         <p>The top location with the highest numbers of Canada Geese banded is in the United States, specifically in the [insert location] region. This pattern indicates significant migratory activity of the Canada Goose between [decades or time period, e.g., the 1970s and 2010s].</p>
     </div>
     <div>
