@@ -55,18 +55,23 @@ permalink: /introduction/
 <div>
     <h3>Introductory statistics</h3>
     <div>
+        <h4>Data Cleaning</h4>
+        <p>To begin with data collection we used 7 csv files from <a href="https://www.sciencebase.gov/catalog/item/653fa806d34ee4b6e05bc57d" target="_blank">ScienceBase</a>, which include data from 1970 to 2023. To reduce the data size, we focused on the 1970s and 2010s decennies and 7 focus species. As part of the cleaning process, we dropped duplicates and chose to keep data entries with less than 20% missing values. It should be noted we kept data entries with null values in features we will not be looking at, such as age. The "event date" and "band type" features, which we primarily focus on, are both cleaned for analysis.</p>
+    </div>
+    <div>
         <h4>Overall Bird Distribution Changes from 1970s to 2010s</h4>
-        <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
-        <p>The dataset contains 7 species with 23 features. Among the 7 species Canada Goose is the highest population with (1284279) and least bird is Tree Swallow. NABBP conducted 2 types of events B:Banding and E: Encounter where B indicates the initial banding event, where a bird is captured and a band is applied for the first time, E: Encounter represents a subsequent encounter with a previously banded bird. Encounters can occur through various means, such as recapture, resighting, or recovery.To band the species they used 25 different band types used based on their gender, age, size and location and band type. All focus species are migrated countries are United States (US) and Canada (CA) in given period.</p>
+        <p class="italic">The graph below is interactive. You can highlight each decade by clicking on the name in the legend.</p>
+        <iframe src="/assets/intro/bird_banding_by_species_and_decade3.html" width="700" height="600" frameborder="0"></iframe>
+        <p>The dataset contains 7 species with 23 features. Among the 7 species Canada Goose is the highest population with (1284279) and least bird is Tree Swallow. NABBP conducted 2 types of events B:Banding and E: Encounter where B indicates the initial banding event, where a bird is captured and a band is applied for the first time, E: Encounter represents a subsequent encounter with a previously banded bird. Encounters can occur through various means, such as recapture, resighting, or recovery. To band the species they used 25 different band types used based on their gender, age, size and location,among those band type 11 and 41 band types are mostly banded. Year with most bird band events conducted: 1971. with Count: 299230 Year with fewest bird band events: 1977 with Count: 175587. The most migrated countries are United States (US) and Canada (CA) in given period. Bird baded events are conducted several locations and they grouped to become a subdivions. The highest bird banded events conducted in Canada in Ontarion (CA-ON) and in US is New York (NY).Ontario is Canada's most populous province and a major location for bird banding activities due to its diverse habitats, including forests, wetlands, and large migratory corridors along the Great Lakes. New York is a key state for bird banding due to its strategic location along the Atlantic Flyway, a major migratory route for many bird species.</p>
     </div>
     <div>
         <h4>Overall Geographical Data (Potentially also changes from 1970s to 2010s)</h4>
-        <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
-        <p>Bird baded events are conducted several locations, Under one subdivions covers many locations with (LAT_DD and LOG_DD). The highest bird banded events conducted in Canada in Ontarion (CA-ON) and in US is New York (NY).Ontario is Canada's most populous province and a major location for bird banding activities due to its diverse habitats, including forests, wetlands, and large migratory corridors along the Great Lakes. New York is a key state for bird banding due to its strategic location along the Atlantic Flyway, a major migratory route for many bird species.</p>
+        <iframe src="/assets/intro/interactive_species_banding_map2_distinct_colors2.html" width="700" height="600" frameborder="0"></iframe>
+        <p>Bird banded events are conducted several locations, Under one subdivions covers many locations with (LAT_DD and LOG_DD). The highest bird banded events conducted in Canada in Ontarion (CA-ON) and in US is New York (NY).Ontario is Canada's most populous province and a major location for bird banding activities due to its diverse habitats, including forests, wetlands, and large migratory corridors along the Great Lakes. New York is a key state for bird banding due to its strategic location along the Atlantic Flyway, a major migratory route for many bird species.</p>
     </div>
     <div>
         <h4>Example of temporal change between 1970s and 2010s (Especially important to support our thesis)</h4>
-        <img src="/figures/canada_goose.jpg" alt="Canada Goose" class="image">
+        <iframe src="/assets/intro/temproal_changes_of_bird_banding_events2.html" width="700" height="600" frameborder="0"></iframe>
         <p>The bird banded events conducted rate changed each year which indicates the increased or decreased population of that specific specie. However the overal the bird count increased on avarage. The most birds were banded in 1971 with 299230 and the lowest number birds banded in 1977 with count of 175,587.</p>
     </div>
     <div>
