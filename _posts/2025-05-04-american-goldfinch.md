@@ -18,13 +18,11 @@ permalink: /species-american-goldfinch/
 <div>
     <h3>About the Species</h3>
     <div>
-      <p>The American Goldfinch (Spinus tristis) is a small, vibrant yellow bird with black wings. They can often be identified through their cheerful song, most commonly seen in weedy fields and backyard feeders.</p>
-      <h4>Interesting Facts</h4>
-      <ul>
-        <li>They are strict vegetarians, feeding almost exclusively on seeds, particularly from thistles and sunflowers.</li>
-        <li>American Goldfinches undergo a complete molt in late summer, changing from bright breeding plumage to a more subdued winter appearance.</li>
-        <li>They are the state bird of Iowa, New Jersey, and Washington.</li>
-      </ul>
+      <p>The American Goldfinch (<span class="italic">Spinus tristis</span>) is a small, vibrant yellow bird with black wings.</p>
+      <p>They are full migrant landbirds, meaning a major portion of the population makes regular cyclical movements beyond its breeding range, with predictable timing and destinations.</p>
+      <p>In terms of endangerment, the American Goldfinch is considered as ‘least concern’ according to the IUCN Red List assessment as of 2016.</p> 
+      <p>They are native to temperate and subtropical/tropical dry parts of Nort America, primarily the United States and Mexico during the winter, most commonly seen in weedy fields and backyard feeders.</p>
+      <p>The overall population trend has been increasing, however, statistically insignificantly, over the last 40 years (from 2007) (BirdLife International, 2016a).</p>
       <img src="/figures/american-goldfinch.jpg" alt="https://celebrateurbanbirds.org/learn/birds/focal-species/american-goldfinch/" class="image">
     </div>
 </div>

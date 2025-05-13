@@ -18,7 +18,11 @@ permalink: /species-wood-duck/
 <div>
     <h3>About the Species</h3>
     <div>
-      <p>The Wood Duck is one of North America's most colourful waterfowl, with the males having a spectacularly colored plumage consisting of a glossy green head, chestnut colored breast, reddish bill, and red eyes. The females, on the other hand, have a brown plumage with a grey, slightly crested head, white rounded eye, and white along the edge of a dark blue speculum patch in the wings. The stand out from other ducks through their unique shape; a boxy, crested head, a thin neck, and a long, broad tail. Typical adults are  47-54 cm in length with a wingspan of between 66-73 cm, with weights ranging from 454–862 grams. They generally feed by dabbling (feeding from the surface rather than diving underwater) or grazing on land where they mainly eat berries, acorns, and seeds, and insects, the latter of which makes them omnivores. Wood Ducks nest in tree cavities as they are adept at perching on branches, due to their sharp claws.</p>
+      <p>The Wood Duck (<span class="italic">Aix sponsa</span>) is one of North America's most colorful waterfowl, with the males having a spectacularly colored plumage consisting of a glossy green head, chestnut colored breast, reddish bill, and red eyes. The females, on the other hand, have a brown plumage with a grey, slightly crested head, white rounded eye, and white along the edge of a dark blue speculum patch in the wings. They stand out from other ducks through their unique shape; a boxy, crested head, a thin neck, and a long, broad tail.</p>
+      <p>They are full migrant waterbirds, meaning a major portion of the population makes regular cyclical movements beyond its breeding range, with predictable timing and destinations.</p>
+      <p>In terms of endangerment, the wood duck is considered as ‘least concern’ according to the IUCN Red List assessment as of 2021.</p>
+      <p>The wood duck is native to temperate climates, particularly near bodies of water such as marshes, freshwater lakes, rivers, creeks, and so forth, residing primarily in the United States in North America, migrating from northern to southern areas of the United States and western Caribbean during early fall.</p>
+      <p>The global population overall increasing, currently estimated at around 4.600.000 mature individuals (BirdLife International, 2021a).</p>
       <img src="/figures/wood-duck.jpeg" alt="https://abcbirds.org/bird/wood-duck/" class="image">
     </div>
 </div>

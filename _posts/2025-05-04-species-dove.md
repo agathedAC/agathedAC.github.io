@@ -18,10 +18,12 @@ permalink: /species-mourning-dove/
 <div>
     <h3>About the Species</h3>
     <div>
-      <p>The mourning dove is one of the most abundant and widespread North American birds, doubling as one of the most popular game bird species, with more than 20 million birds (up to 70 million in some years) shot annually in the U.S.
-      They are all muted in color, generally light gray and brown with some pink, with broad wings, a rounded head, a long and tapered tail, and short, reddish colored feet. It is considered a medium-sized, slender dove and is approximately 31 cm in length and a wingspan of 37–45 cm.
-      Other names for the species include: american mourning dove, rain dove, and previously carolina pigeon and carolina turtledove.
-      They are Primarily seed-eaters and can consume up to 20% of their body weight in seeds daily. Additionally, they are among the fastest birds, capable of reaching speeds up to ~88 km/h.</p>
+      <p>The mourning dove (<span class="italic">Zenaida macroura</span>) is one of the most abundant and widespread North American birds, doubling as one of the most popular game bird species, with more than 20 million birds (up to 70 million in some years) shot annually in the U.S. They are all muted in color, generally light gray and brown with some pink, with broad wings, a rounded head, a long and tapered tail, and short, reddish colored feet.</p>
+      <p>They are full migrant landbirds, meaning a major portion of the population makes regular cyclical movements beyond its breeding range, with predictable timing and destinations.</p>
+      <p>In terms of endangerment, the mourning dove is considered as ‘least concern’ according to the IUCN Red List assessment as of 2024.</p>
+      <p>It is native to temperate and subtropical/tropical dry areas of North America, specifically the United States and southern Canada, migrating to Central America, including Mexico, the Caribbean and Bermuda.</p>
+      <p>The global population trend is currently seeing a slight negative trend, even though it had previously seen a small increase over the last 40 years (from 2007). In 2020 the total population in the Unted States and Canada was estimated to be around 130.000.000 mature individuals.</p>
+      <p>The mourning dove is considered to have a medium dependency on forest habitat, and tree cover is estimated to have declined by 14.7% within its mapped range over the past three generations (Global Forest Watch 2022). North America holds the majority of the species' global range, and as such, the global population is considered to be decreasing slowly (BirdLife International, 2024).</p>
       <img src="/figures/mourning-dove.jpg" alt="https://celebrateurbanbirds.org/learn/birds/focal-species/mourning-dove/" class="image">
     </div>
 </div>

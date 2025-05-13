@@ -18,13 +18,11 @@ permalink: /species-white-throated-sparrow/
 <div>
     <h3>About the Species</h3>
     <div>
-      <p>The White-throated Sparrow (Zonotrichia albicollis) is a medium-sized sparrow with a distinctive white throat patch and yellow lores (spots between the eyes and bill). They are known for their clear, whistled song.</p>
-      <h4>Interesting Facts</h4>
-      <ul>
-        <li>They exhibit two color morphs—white-striped and tan-striped—which are associated with different behavioral traits.</li>
-        <li>Recent studies have documented a rapid change in their song patterns across central Canada, shifting from a three-note to a two-note ending.</li>
-        <li>Their scientific name, Zonotrichia albicollis, translates to "white-necked hair band," referring to their distinctive markings.</li>
-      </ul>
+      <p>The White-throated Sparrow (<span class="italic">Zonotrichia albicollis</span>) is a medium-sized sparrow with a distinctive white throat patch and yellow lores (spots between the eyes and bill). They are known for their clear, whistled song.</p>
+      <p>They are full migrant landbirds, meaning a major portion of the population makes regular cyclical movements beyond its breeding range, with predictable timing and destinations.</p>
+      <p>In terms of endangerment, the tree swallow is considered as ‘least concern’ according to the IUCN Red List assessment as of 2021.</p>
+      <p>They can be found in the northeast of the United States year-round, primarily breeding across Canada and migrating westward to California and south to southern North America during the winter.</p>
+      <p>The global population trend has seen a moderate decline at an average of 1% per year from 1970 to 2017. Furthermore, short-term trends suggests that it since 2010 has declined 19% (BirdLife International, 2021b).</p>
       <img src="/figures/white-throated-sparrow.jpg" alt="https://www.allaboutbirds.org/guide/White-throated_Sparrow/overview" class="image">
     </div>
 </div>

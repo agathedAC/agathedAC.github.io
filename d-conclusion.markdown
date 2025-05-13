@@ -31,6 +31,14 @@ permalink: /conclusion/
     <p>Tree Swallow identification. All About Birds, Cornell Lab of Ornithology. (n.d.). https://www.allaboutbirds.org/guide/Tree_Swallow/id </p>
     <p>White-throated sparrow overview, all about birds, Cornell Lab of Ornithology. Overview, All About Birds, Cornell Lab of Ornithology. (n.d.). https://www.allaboutbirds.org/guide/White-throated_Sparrow/overview </p>
     <p>Wood duck. American Bird Conservancy. (2020, January 16). https://abcbirds.org/bird/wood-duck/ </p>
+    <p>BirdLife International (2016a). Species factsheet: American Goldfinch Spinus tristis. Downloaded from https://datazone.birdlife.org/species/factsheet/american-goldfinch-spinus-tristis 12/05/2025</p>
+    <p>BirdLife International (2018). Species factsheet: Canada Goose Branta canadensis. Downloaded from https://datazone.birdlife.org/species/factsheet/canada-goose-branta-canadensis 12/05/2025</p>
+    <p>BirdLife International (2016b). Species factsheet: Grey Catbird Dumetella carolinensis. Downloaded from https://datazone.birdlife.org/species/factsheet/grey-catbird-dumetella-carolinensis 12/05/2025</p>
+    <p>BirdLife International (2016c). Species factsheet: Tree Swallow Tachycineta bicolor. Downloaded from https://datazone.birdlife.org/species/factsheet/tree-swallow-tachycineta-bicolor 12/05/2025</p>
+    <p>BirdLife International (2021a). Species factsheet: Wood Duck Aix sponsa. Downloaded from https://datazone.birdlife.org/species/factsheet/wood-duck-aix-sponsa 12/05/2025</p>
+    <p>BirdLife International (2021b). Species factsheet: White-throated Sparrow Zonotrichia albicollis. Downloaded from https://datazone.birdlife.org/species/factsheet/white-throated-sparrow-zonotrichia-albicollis 12/05/2025</p>
+    <p>BirdLife International (2024). Species factsheet: Mourning Dove Zenaida macroura. Downloaded from https://datazone.birdlife.org/species/factsheet/mourning-dove-zenaida-macroura 12/05/2025</p>  
+    <p>Global Forest Watch. 2023. Interactive Forest Change Mapping Tool. Available at: http://www.globalforestwatch.org/.</p>
 </div>
 <div>
     <h3>Contributions</h3>
