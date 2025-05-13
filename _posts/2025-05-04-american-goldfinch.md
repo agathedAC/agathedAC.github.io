@@ -40,11 +40,5 @@ permalink: /species-american-goldfinch/
         <img src="/figures/species-banding/american_goldfinch_banding_by_year.png" alt="american_goldfinch_banding_by_year"  class="graph-img">
         <p>X</p>
     </div>
-    <div>
-        <h3>Summary</h3>
-        <p>X</p>
-    </div>
-
-
 </div>
 

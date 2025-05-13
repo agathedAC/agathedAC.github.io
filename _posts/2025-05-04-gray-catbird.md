@@ -40,10 +40,4 @@ permalink: /species-gray-catbird/
         <img src="/figures/species-banding/gray_catbird_banding_by_year.png" alt="gray_catbird_banding_by_year"  class="graph-img">
         <p>Year with most GRAY CATBIRD band events: 2015. Count: 24672. Year with fewest GRAY CATBIRD band events: 1973. Count: 12616</p>
     </div>
-    <div>
-        <h3>Summary</h3>
-        <p>X</p>
-    </div>
-
-
 </div>

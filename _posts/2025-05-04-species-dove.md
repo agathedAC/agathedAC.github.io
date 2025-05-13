@@ -41,10 +41,4 @@ permalink: /species-mourning-dove/
         <img src="/figures/species-banding/mourning_dove_banding_by_year.png" alt="mourning_dove_banding_by_year"  class="graph-img">
         <p>Year with most MOURNING DOVE band events: 1971. Count: 163649 while the year with fewest MOURNING DOVE band events is 1978 at a count of 9835.</p>
     </div>
-    <div>
-        <h3>Summary</h3>
-        <p>X</p>
-    </div>
-
-
 </div>
