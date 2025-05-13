@@ -33,11 +33,11 @@ permalink: /species-white-throated-sparrow/
         <h4>Overall Geographycal Patterns</h4>
         <p class="italic">The map below is interactive. Feel free to move around and zoom in and out!</p>
         <iframe src="/assets/species-geo-maps/WHITE-THROATED_SPARROW_banding_map_with_geojson_us_ca.html" width="700" height="600" frameborder="0"></iframe>
-        <p>X</p>
+        <p>As we can see on the map above, they primarily live on the eastcoast of North America. While declines have been happening all over the region, it appears that especially around the Catskills of New York they have been diclining dtrastically. State of the Mountain Birds (2024) determine that at this rate the white-throated sparrow may be fully absent as a breeding species in these mountains by 2060.</p>
     </div>
     <div>
         <h4>Temporal Changes between 1970s and 2010s</h4>
         <img src="/figures/species-banding/white-throated_sparrow_banding_by_year.png" alt="white-throated_sparrow_banding_by_year"  class="graph-img">
-        <p>Year with most WHITE-THROATED SPARROW band events: 1975. Count: 31268. Year with fewest WHITE-THROATED SPARROW band events: 2019. Count: 17836</p>
+        <p>The year with most white-throated sparrow banding events is 1975 at 31268, while the year with the fewest white-throated sparrow banding events is 2019 at 17836. Sadly, our graph highlights the fact that the white-throated sparrow is amongst some of the species that have seen the biggest loss of population over the decades (Cornell Lab of Ornithology, 2019). They have been found to have been declining about 33% overall and 69% within the US between 1966 and 2019, according to the North American Breeding Bird Survey. They migrate at night which may increase their chance of hitting tall structures and lighted buildings (Cornell Lab of Ornithology., n.d.-b).</p>
     </div>
 </div>
