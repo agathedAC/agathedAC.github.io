@@ -6,12 +6,15 @@ permalink: /introduction/
 <hr>
 <br>
 <div>
-    <h3>About the project</h3>
+    <h3>About the Project</h3>
     <div>
         <h4>North American Bird Migration Analysis (1970s vs. 2010s)</h4>
-        <p><span class="italic">The North American Bird Banding Program (NABBP)</span>, administered by the <span class="italic">U.S. Geological Survey (USGS) Bird Banding Laboratory</span> and the <span class="italic">Canadian Wildlife Service's Bird Banding Office</span>, uses standardized event types to categorize different bird banding activities.</p>
-        <p>For some context, bird banding in Nort America was first introduced in 1803 by John James Audubon, who tied silver wire around the legs of nestling eastern phoebes, two of which returned the following spring. Later on in 1882 Ernest Thompson Seton used printer's ink to mark snow buntings. In 1996, the North American Banding Council (NABC) was formed. Their mission was to train banders in safe, ethical practices of the capture and handling of wild birds.</p>
-        <p>This project aims to analyze <span style="font-weight: bold">bird migration patterns in North America</span> between the <span style="font-weight: bold">1970s and the 2010s</span>, using data collected from the <a href="https://www.sciencebase.gov/catalog/item/653fa806d34ee4b6e05bc57d">U.S. Geological Survey ScienceBase Catalog</a>.</p>
+        <div class="quote-box">
+            <p>"<span class="quote">Birds are indicators of environmental health for their own species, people, and other wildlife.</span>" - Dayer, associate professor in the Department of Fish and Wildlife Conservation at Virginia Tech (Ashburn, 2024).</p>
+        </div>
+        <p>Experts say that recent data suggests bird populations in North America have seen a loss of more than 1 in 4 birds since 1970. That's approximatelt 2.9 billion birds, a finding from the first-ever comprehensible assessment of the net population changes of birds in the United States and Canada (Cornell Lab, 2019). Some of the major reasons for this include, but is not limited to, habitat loss caused by agricultural intensification, urbinization, and climate change. 1 billion birds are shown to due each year due to collision with windows, a direct result of increased urbanization (Ashburn, 2024).</p>
+        <p>This trend is happening amongst birds in every biome. Forest birds have seen a decline of 1 billion birds. Grassland birds have collectively declined around 53% or 720 million birds. What's more, the greatest losses are seen amongst the most common birds, from popular sights in bird feeders such as white-throated sparrows, to common sightings in nature, such as the red-winged blackbird. More than 90% if the overall losses are from jsut 12 families of common species, including sparrows, blackbirds, warblers, and finches (Cornell lab, 2019).</p>
+        <p>As such, this project aims to see if <span style="font-weight: bold">bird migration patterns in North America</span> between the <span style="font-weight: bold">1970s and the 2010s</span>, using data collected from the <a href="https://www.sciencebase.gov/catalog/item/653fa806d34ee4b6e05bc57d">U.S. Geological Survey ScienceBase Catalog</a> will show us a similar story, determining if bird banding is a useful tool in the analysis of bird trends caused by external factors such as agriculture expansion, urbanization, and climate change.</p>
     </div>
     <div>
         <h4>Focus Species</h4>
@@ -37,6 +40,8 @@ permalink: /introduction/
     </div>
     <div>
         <h4>Importance of Bird Banding</h4>
+        <p><span class="italic">The North American Bird Banding Program (NABBP)</span>, administered by the <span class="italic">U.S. Geological Survey (USGS) Bird Banding Laboratory</span> and the <span class="italic">Canadian Wildlife Service's Bird Banding Office</span>, uses standardized event types to categorize different bird banding activities.</p>
+        <p>For some context, bird banding in North America was first introduced in 1803 by John James Audubon, who tied silver wire around the legs of nestling eastern phoebes, two of which returned the following spring. Later on in 1882 Ernest Thompson Seton used printer's ink to mark snow buntings. In 1996, the North American Banding Council (NABC) was formed. Their mission was to train banders in safe, ethical practices of the capture and handling of wild birds.</p>
         <p>Studies of bird migration are crucial. Modern bird banding efforts support:</p>
         <ul>
             <li>Research on avian behavior, ecology, and population dynamics</li>
