@@ -7,6 +7,7 @@ permalink: /introduction/
 <br>
 <div>
     <h3>About the Project</h3>
+    <a href="/assets/explanatory_notebook 1.html">explainer notebook</a>
     <div>
         <h4>North American Bird Migration Analysis (1970s vs. 2010s)</h4>
         <div class="quote-box">
