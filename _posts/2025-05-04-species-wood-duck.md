@@ -40,7 +40,7 @@ permalink: /species-wood-duck/
         <img src="/figures/species-banding/wood_duck_banding_by_year.png" alt="wood_duck_banding_by_year"  class="graph-img">
         <br>
         <p>The fewest wood duck banding events were recorded in 1973 at 17,513 with the majority of banding events conducted during the months of August and September.</p>
-        <p>Similar to the canada goose, the wood duck is seeing a substantial increase in banding events between the 70s and 2010s. While it is not immediatly certain why that is the case for the canada goose, the population of the wood duck has increased due to the work of many people constructing wood duck boxes and conserving vital habitat for the wood ducks to breed. During the open waterfowl season, U.S. hunters have been allowed to take only two wood ducks per day in the Atlantic and Mississippi Flyways, highlighting how big an impact conservation efforts are as we are currently seeing an overall increase in their population (CITE).</p>
+        <p>Similar to the canada goose, the wood duck is seeing a substantial increase in banding events between the 70s and 2010s. While it is not immediatly certain why that is the case for the canada goose, the population of the wood duck has increased due to the work of many people constructing wood duck boxes and conserving vital habitat for the wood ducks to breed. During the open waterfowl season, U.S. hunters have been allowed to take only two wood ducks per day in the Atlantic and Mississippi Flyways, highlighting how big an impact conservation efforts are as we are currently seeing an overall increase in their population (Wikipedia, 2025a).</p>
 
     </div>
 </div>
