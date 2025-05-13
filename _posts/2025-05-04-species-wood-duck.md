@@ -33,12 +33,14 @@ permalink: /species-wood-duck/
         <h4>Overall Geographycal Patterns</h4>
         <p class="italic">The map below is interactive. Feel free to move around and zoom in and out!</p>
         <iframe src="/assets/species-geo-maps/WOOD_DUCK_banding_map_with_geojson_us_ca.html" width="700" height="600" frameborder="0"></iframe>
-        <p>X</p>
+        <p> For the wood duck, the highest concentrations of banding activity were observed in the U.S. subdivisions of Iowa (IA), Louisiana (LA), Illinois (IL), Minnesota (MN), and Wisconsin (WI). While not immediatly visible on our map, it is known that the wood duck has been decreasing in population near the east cost while increasing in the nothern part of the United States near the Great Lakes (BirdLife, 2021a), something which can be linked to the top subdivision being the state of Iowa in the US.</p>
     </div>
     <div>
         <h4>Temporal Changes between 1970s and 2010s</h4>
         <img src="/figures/species-banding/wood_duck_banding_by_year.png" alt="wood_duck_banding_by_year"  class="graph-img">
-        <p>The fewest wood duck banding events were recorded in 1973 at 17,513. The population of the wood duck has increased due to the work of many people constructing wood duck boxes and conserving vital habitat for the wood ducks to breed. During the open waterfowl season, U.S. hunters have been allowed to take only two wood ducks per day in the Atlantic and Mississippi Flyways.</p>
-        <p>The majority of banding events were conducted during the months of August and September. The most commonly used band types during this period include 41, 11, W1, and 01.The highest concentrations of banding activity were observed in the U.S. subdivisions of Iowa (IA), Louisiana (LA), Illinois (IL), Minnesota (MN), and Wisconsin (WI).</p>
+        <br>
+        <p>The fewest wood duck banding events were recorded in 1973 at 17,513 with the majority of banding events conducted during the months of August and September.</p>
+        <p>Similar to the canada goose, the wood duck is seeing a substantial increase in banding events between the 70s and 2010s. While it is not immediatly certain why that is the case for the canada goose, the population of the wood duck has increased due to the work of many people constructing wood duck boxes and conserving vital habitat for the wood ducks to breed. During the open waterfowl season, U.S. hunters have been allowed to take only two wood ducks per day in the Atlantic and Mississippi Flyways, highlighting how big an impact conservation efforts are as we are currently seeing an overall increase in their population (CITE).</p>
+
     </div>
 </div>
