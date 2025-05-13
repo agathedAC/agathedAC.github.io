@@ -34,9 +34,11 @@ permalink: /conclusion/
     <p>BirdLife International (2021a). Species factsheet: Wood Duck Aix sponsa. Downloaded from https://datazone.birdlife.org/species/factsheet/wood-duck-aix-sponsa 12/05/2025</p>
     <p>BirdLife International (2021b). Species factsheet: White-throated Sparrow Zonotrichia albicollis. Downloaded from https://datazone.birdlife.org/species/factsheet/white-throated-sparrow-zonotrichia-albicollis 12/05/2025</p>
     <p>BirdLife International (2024). Species factsheet: Mourning Dove Zenaida macroura. Downloaded from https://datazone.birdlife.org/species/factsheet/mourning-dove-zenaida-macroura 12/05/2025</p>
+    <p>Boustan, Leah Platt, Bunten, D., & Hearey, O. (2013). Urbanization in the United States, 1800-2000. National Bureau of Economic Research.</p>
     <p>Cornell Lab. (2019). Nearly 3 billion birds gone. Birds, Cornell Lab of Ornithology. https://www.birds.cornell.edu/home/bring-birds-back/ </p>
     <p>Global Forest Watch. 2023. Interactive Forest Change Mapping Tool. Available at: http://www.globalforestwatch.org/.</p>
     <p>Gray Catbird. Audubon. (2024, December 8). https://www.audubon.org/field-guide/bird/gray-catbird </p>
+    <p>Gross, L. (2019, August 2). Rainy Springs bring disaster for nesting tree swallows. PBS. https://www.pbs.org/wnet/nature/blog/rainy-springs-bring-disaster-for-nesting-tree-swallows/ </p>
     <p>Mourning dove. Celebrate Urban Birds. (2016b, October 7). https://celebrateurbanbirds.org/learn/birds/focal-species/mourning-dove/ </p>
     <p>Nilsson, C., Klaassen, R. H. G., & Alerstam, T. (2013). Differences in speed and duration of bird migration between spring and autumn. American Naturalist, 181(6), 837-845. https://doi.org/10.1086/670335</p>
     <p>Powell, H. (2025, April 16). The basics of bird migration: How, why, and where. All About Birds. https://www.allaboutbirds.org/news/the-basics-how-why-and-where-of-bird-migration/ </p>

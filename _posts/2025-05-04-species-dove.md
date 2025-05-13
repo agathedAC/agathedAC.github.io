@@ -34,11 +34,11 @@ permalink: /species-mourning-dove/
         <h4>Overall Geographycal Patterns</h4>
         <p class="italic">The map below is interactive. Feel free to move around and zoom in and out!</p>
         <iframe src="/assets/species-geo-maps/MOURNING_DOVE_banding_map_with_geojson_us_ca.html" width="700" height="600" frameborder="0"></iframe>
-        <p>X</p>
+        <p>Understandably, this species' occurence is much more sparce than that of the previous bird species, although it generally covers a much wider range geographically. This also highlgihts how its migration pattern seem to be fairly vertically linear. Its widespread reach could also explain why it is so highly impact both urbanization and increase in agriculture.</p>
     </div>
     <div>
         <h4>Temporal Changes between 1970s and 2010s</h4>
         <img src="/figures/species-banding/mourning_dove_banding_by_year.png" alt="mourning_dove_banding_by_year"  class="graph-img">
-        <p>Year with most MOURNING DOVE band events: 1971. Count: 163649 while the year with fewest MOURNING DOVE band events is 1978 at a count of 9835.</p>
+        <p>This graph highlights the sad trajectory of the population size of the mourning dove. The year with most mourning dove banding events is 1971 at 163649, while the year with fewest mourning dove banding events is 1978 at a count of 9835. While the 2010s see larger values than the late 70s, the former numbers are still significantly lower on average, and still seeing a slight decrease in the more recent years. The late 70s numbers could be due to the rapid increase in urbanization that was seen between 1940-1970 (Boustan et al., 2013), which as discussed previously is known to affect this species. </p>
     </div>
 </div>

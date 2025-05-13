@@ -33,11 +33,11 @@ permalink: /species-gray-catbird/
         <h4>Overall Geographycal Patterns</h4>
         <p class="italic">The map below is interactive. Feel free to move around and zoom in and out!</p>
         <iframe src="/assets/species-geo-maps/GRAY_CATBIRD_banding_map_with_geojson_us_ca.html" width="700" height="600" frameborder="0"></iframe>
-        <p>X</p>
+        <p>The gray catbird is primarily found on the eastcoast of North America, which can be seen in a map above.</p>
     </div>
     <div>
         <h4>Temporal Changes between 1970s and 2010s</h4>
         <img src="/figures/species-banding/gray_catbird_banding_by_year.png" alt="gray_catbird_banding_by_year"  class="graph-img">
-        <p>Year with most GRAY CATBIRD band events: 2015. Count: 24672. Year with fewest GRAY CATBIRD band events: 1973. Count: 12616</p>
+        <p>The year with most grat catbird banding events is 2015 at 24672, while the year with the fewest gray catbird banding events is 1973 at 12616. According to our data, the species' numbers appear to be fairly stable aligning with our what our sources say on the matter. Out of the 7 species we are focusing on, they appear to be impacted the least over time with no major scentific findings relating to our topic.</p>
     </div>
 </div>
