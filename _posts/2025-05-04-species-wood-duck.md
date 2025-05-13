@@ -41,10 +41,4 @@ permalink: /species-wood-duck/
         <p>The fewest wood duck banding events were recorded in 1973 at 17,513. The population of the wood duck has increased due to the work of many people constructing wood duck boxes and conserving vital habitat for the wood ducks to breed. During the open waterfowl season, U.S. hunters have been allowed to take only two wood ducks per day in the Atlantic and Mississippi Flyways.</p>
         <p>The majority of banding events were conducted during the months of August and September. The most commonly used band types during this period include 41, 11, W1, and 01.The highest concentrations of banding activity were observed in the U.S. subdivisions of Iowa (IA), Louisiana (LA), Illinois (IL), Minnesota (MN), and Wisconsin (WI).</p>
     </div>
-    <div>
-        <h3>Summary</h3>
-        <p>X</p>
-    </div>
-
-
 </div>

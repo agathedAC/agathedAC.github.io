@@ -40,10 +40,4 @@ permalink: /species-tree-swallow/
         <img src="/figures/species-banding/tree_swallow_banding_by_year.png" alt="tree_swallow_banding_by_year"  class="graph-img">
         <p>Year with most TREE SWALLOW band events: 2012. Count: 30698. Year with fewest TREE SWALLOW band events: 1970. Count: 5455</p>
     </div>
-    <div>
-        <h3>Summary</h3>
-        <p>X</p>
-    </div>
-
-
 </div>

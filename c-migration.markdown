@@ -26,7 +26,7 @@ permalink: /migration-temporal/
         <br>
         <h4>Spring vs Fall</h4>
         <p class="italic">These maps below are interactive. Feel free to move around and zoom in and out!</p>
-        <div class="flex-migration">
+        <div>
             <iframe src="/assets/migration/species_map_spring.html" width="700" height="600" frameborder="0"></iframe>
             <iframe src="/assets/migration/species_map_fall.html" width="700" height="600" frameborder="0"></iframe>
         </div>
@@ -36,7 +36,7 @@ permalink: /migration-temporal/
         <h4>Non migratory birds</h4>
         <p>However, not all birds migrate. In fact, with the global warming, the need for migration becomes less and less present as birds are able to find food year-round under some latitudes. From the middle to the north of United States, most birds are permanent residents, wintering and breeding on the same grounds. You can notice it on the following two heatmaps, where summer display a shift towards the north compared to winter. </p>
         <p class="italic">These maps below are interactive. Feel free to move around and zoom in and out!</p>
-        <div  class="flex-migration">
+        <div>
             <iframe src="/assets/migration/heatmap_10s_winter.html" width="700" height="600" frameborder="0"></iframe>
             <iframe src="/assets/migration/heatmap_10s_summer.html" width="700" height="600" frameborder="0"></iframe>
         </div>
@@ -54,9 +54,9 @@ permalink: /migration-temporal/
         <h4>Temporal comparisons on species</h4>
         <p>In the following two graphs, we can compare for each specie the number of events per month, during the seventies and during the 2010s. We notice that the trends are the same between the two decades for each species. It is quite reassuring, as we can infer that even with global warming and the destruction of some natural environments, there was no big changes in their behaviour during this period. Some species have two peaks of events in a year, those are probably easier to catch during migration, and the rest seems to be more found during the breeding or post-breeding season (maybe the youngsters are less suspicious than the adults?). The Canada Goose are particularly successful at cohabiting with humans, sometimes living in the cities and eating in dumpsters. We indeed notice on the 2010s plot a large increase of events concerning this specie. They are thriving so much that we are considering them an invasive specie.  </p>
         <p class="italic">These graphs below are interactive. Feel free to move around and zoom in and out!</p>
-        <div  class="flex-migration">
-            <iframe src="/assets/migration/species_histogram_70s.html" width="700" height="600" frameborder="0"></iframe>
-            <iframe src="/assets/migration/species_histogram_10s.html" width="700" height="600" frameborder="0"></iframe>
+        <div>
+            <iframe src="/assets/migration/species_histogram_70s.html" width="800" height="400" frameborder="0"></iframe>
+            <iframe src="/assets/migration/species_histogram_10s.html" width="800" height="400" frameborder="0"></iframe>
         </div>
     </div>
 </div>

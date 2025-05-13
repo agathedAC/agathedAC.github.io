@@ -40,10 +40,4 @@ permalink: /species-white-throated-sparrow/
         <img src="/figures/species-banding/white-throated_sparrow_banding_by_year.png" alt="white-throated_sparrow_banding_by_year"  class="graph-img">
         <p>Year with most WHITE-THROATED SPARROW band events: 1975. Count: 31268. Year with fewest WHITE-THROATED SPARROW band events: 2019. Count: 17836</p>
     </div>
-    <div>
-        <h3>Summary</h3>
-        <p>X</p>
-    </div>
-
-
 </div>
