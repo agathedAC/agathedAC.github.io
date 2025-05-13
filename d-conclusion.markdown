@@ -38,6 +38,8 @@ permalink: /conclusion/
     <p>Global Forest Watch. 2023. Interactive Forest Change Mapping Tool. Available at: http://www.globalforestwatch.org/.</p>
     <p>Gray Catbird. Audubon. (2024, December 8). https://www.audubon.org/field-guide/bird/gray-catbird </p>
     <p>Mourning dove. Celebrate Urban Birds. (2016b, October 7). https://celebrateurbanbirds.org/learn/birds/focal-species/mourning-dove/ </p>
+    <p>Nilsson, C., Klaassen, R. H. G., & Alerstam, T. (2013). Differences in speed and duration of bird migration between spring and autumn. American Naturalist, 181(6), 837-845. https://doi.org/10.1086/670335</p>
+    <p>Powell, H. (2025, April 16). The basics of bird migration: How, why, and where. All About Birds. https://www.allaboutbirds.org/news/the-basics-how-why-and-where-of-bird-migration/ </p>
     <p>Rosenberg, K. V., Dokter, A. M., Blancher, P. J., Sauer, J. R., Smith, A. C., Smith, P. A., Stanton, J. C., Panjabi, A., Helft, L., Parr, M., & Marra, P. P. (2019). Decline of the North American avifauna. Science, 366(6461), 120–124. https://doi.org/10.1126/science.aaw1313 </p>
     <p>Tree Swallow identification. All About Birds, Cornell Lab of Ornithology. (n.d.). https://www.allaboutbirds.org/guide/Tree_Swallow/id </p>
     <p>White-throated sparrow overview, all about birds, Cornell Lab of Ornithology. Overview, All About Birds, Cornell Lab of Ornithology. (n.d.). https://www.allaboutbirds.org/guide/White-throated_Sparrow/overview </p>
