@@ -18,13 +18,11 @@ permalink: /species-gray-catbird/
 <div>
     <h3>About the Species</h3>
     <div>
-      <p>The Gray Catbird (Dumetella carolinensis) is a medium-sized songbird with slate-gray plumage and a distinctive black cap. They are named for their cat-like "mew" call.</p>
-      <h4>Interesting Facts</h4>
-      <ul>
-        <li>Gray Catbirds are skilled mimics, capable of imitating the songs of other birds and even mechanical sounds.</li>
-        <li>They are omnivorous, feeding on insects and a variety of fruits, often foraging in dense shrubs.</li>
-        <li>They are known to aggressively defend their territory against intruders.</li>
-      </ul>
+      <p>The Gray Catbird (<span class="italic">Dumetella carolinensis</span>) is a medium-sized songbird with slate-gray plumage and a distinctive black cap. They are named for their cat-like "mew" call.</p>
+      <p>They are full migrant landbirds, meaning a major portion of the population makes regular cyclical movements beyond its breeding range, with predictable timing and destinations.</p>
+      <p>In terms of endangerment, the Gray Catbird is considered as ‘least concern’ according to the IUCN Red List assessment as of 2016.</p>
+      <p>The Gray Catbird is native to temperate, subtropical/tropical moist and subtropical/tropical dry parts of North and Central America, particularly the United States during the summer, and migrating to Mexico and the Caribbean during the winter.</p>
+      <p>The population trend has been stable over the last 40 years (from 2007) in North America (BirdLife International, 2016b).</p>
       <img src="/figures/gray-catbird.jpeg" alt="https://www.audubon.org/field-guide/bird/gray-catbird" class="image">
     </div>
 </div>

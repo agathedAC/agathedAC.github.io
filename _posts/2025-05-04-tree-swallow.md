@@ -18,7 +18,11 @@ permalink: /species-tree-swallow/
 <div>
     <h3>About the Species</h3>
     <div>
-      <p>The tree awallow is a small, agile bird with iridescent blue-green upperparts and white underparts, where the female is duller in color than the male, and sometimes has a brown forehead. They are commonly found near water and open fields. The tree swallow has a length between about 12-14 cm and a weight of approximately 17-25.5 g. Its wingspan ranges from 30-35 cm . The tree swallow has an average lifespan of 2.7 years[69] and a maximum of 12 years. Thet primarily feed on flying insects and can drink and bathe while in flight. It is typically found all across the continental U.S. (except the southeastern corner) and Canada, and in parts of Alaska.</p>
+      <p>The tree swallow (<span class="italic">Tachycineta bicolor</span>) is a small, agile bird with iridescent blue-green upperparts and white underparts. Thet primarily feed on flying insects and can drink and bathe while in flight.</p>
+      <p>They are full migrant landbirds, meaning a major portion of the population makes regular cyclical movements beyond its breeding range, with predictable timing and destinations.</p>
+      <p>In terms of endangerment, the tree swallow is considered as ‘least concern’ according to the IUCN Red List assessment as of 2016.</p>
+      <p>It is typically found all across the continental U.S. (except the southeastern corner) and Canada, and in parts of Alaska, primarily near water and open fields. It usually migrates to Panama and other parts of Central America and the Caribbean in the winter.</p>
+      <p>The species has had a stable population trend over the last 40 years (since 2007) and this is still the case (BirdLife International, 2016c).</p>
       <img src="/figures/tree-swallow.jpg" alt="https://www.allaboutbirds.org/guide/Tree_Swallow/id" class="image">
     </div>
 </div>
