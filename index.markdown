@@ -9,3 +9,7 @@ layout: index-wrapper
 <div class="flex">
     <h5 >May 13, 2025</h5>
 </div>
+
+<a href="explanatory_notebook_part_1.html">explainer notebook part 1</a>
+<a href="">explainer notebook part 2</a>
+<a href="">explainer notebook part 3</a>
