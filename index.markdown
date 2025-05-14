@@ -11,5 +11,8 @@ layout: index-wrapper
 </div>
 
 <a href="/assets/explanatory_notebook_part_1.html">explainer notebook part 1</a>
-<a href="">explainer notebook part 2</a>
-<a href="">explainer notebook part 3</a>
+<br>
+<a href="https://github.com/agathedAC/agathedAC.github.io/blob/5e964aabf101b2ecad9ef00c0c663ec5ed85697e/assets/explanatory_notebook_part_2.html.zip">explainer notebook part 2</a>
+<br>
+<a href="https://github.com/agathedAC/agathedAC.github.io/blob/5e964aabf101b2ecad9ef00c0c663ec5ed85697e/assets/explanatory_notebook_part_3.html.zip">explainer notebook part 3</a>
+<p>The second and third part above were too big to upload as just their html files so they had to be uploaded a zip files.</p>
